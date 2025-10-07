@@ -28,14 +28,15 @@ Project Structure
 
 python-magazine-sql-challenge/
 ├── lib/
-│ ├── init.py
-│ ├── author.py
-│ ├── magazine.py
-│ ├── article.py
-│ └── database_utils.py
+│   ├── __init__.py
+│   ├── author.py
+│   ├── magazine.py
+│   ├── article.py
+│   └── database_utils.py
 ├── tests/
-│ ├── init.py
-│ └── test_relations.py
+│   ├── __init__.py
+│   └── test_relations.py
 ├── debug.py
 ├── requirements.txt
 └── README.md
+
